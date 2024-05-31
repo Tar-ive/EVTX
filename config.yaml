@@ -1,0 +1,21 @@
+# config.yaml
+style:
+  css:
+    - |
+      .stApp {
+          background-color: #f0f2f6;
+      }
+      .stSidebar {
+          background-color: #2c3e50;
+      }
+      .stSidebar .css-1l02zno {
+          color: white;
+      }
+      .stButton button {
+          background-color: #1abc9c;
+          color: white;
+          border-radius: 10px;
+      }
+      .stButton button:hover {
+          background-color: #16a085;
+      }
